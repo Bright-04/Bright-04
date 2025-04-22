@@ -7,17 +7,19 @@
 
 Hi there! I'm a passionate **Information Technology** student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, blending technical skills with creative talent. My academic journey has equipped me with diverse programming knowledge, while my leadership experiences have honed my organizational abilities.
 
-- 🏫 **Education**: Studying Information Technology at HCMUTE
+- 🏫 **Education**:
+  - English Major at Bao Loc High School for the Gifted 
+  - Studying Information Technology at HCMUTE
 - 🎖️ **Leadership**: Vice Chairman of The Associated Organ of Vietnamese Students' Association, Faculty of International Education
-- 🎬 **Media**: Lead Video Editor at [FIE HCMUTE](https://facebook.com/fie.hcmute)
+- 🎬 **Media**: Lead Video Editor at [FIETEAM](https://facebook.com/fie.hcmute)
 - 💡 **Passion**: Developing innovative solutions that combine creativity with technical precision
 
 I'm currently applying my skills in building personal projects that challenge conventional approaches to technology problems while exploring the frontiers of software architecture and design.
 
 ## 🔭 Current Focus
 - Developing cutting-edge personal projects that solve real-world problems
-- Exploring advanced concepts in software architecture and design
-- Continuously expanding my technical knowledge and staying updated with industry trends
+- Contributing to open-source projects
+- Building a comprehensive portfolio showcasing my technical capabilities
 
 ## 🚀 Tech Stack
 <div align="center">
