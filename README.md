@@ -191,7 +191,6 @@ As a **passionate Information Technology student** at **Ho Chi Minh City Univers
 </div>
     
   <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-    <h3 style="color: white; margin: 0;">💡 Innovation Philosophy</h3>
     <p style="color: white; margin: 10px 0 0 0; font-style: italic;">
       "Technology is not just about solving problems - it's about creating possibilities that didn't exist before. 
       Every innovation starts with a dream, every breakthrough begins with a question, and every revolution 
