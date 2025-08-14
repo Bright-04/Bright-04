@@ -1,0 +1,46 @@
+{
+	"name": "creative-portfolio-website",
+	"version": "1.0.0",
+	"description": "A modern, responsive, and interactive portfolio website showcasing skills, projects, and professional journey",
+	"main": "index.html",
+	"scripts": {
+		"start": "python -m http.server 8000",
+		"dev": "python -m http.server 8000",
+		"serve": "python -m http.server 8000",
+		"build": "echo 'No build step required for static site'",
+		"deploy": "echo 'Deploy via GitHub Actions'",
+		"lint": "echo 'Linting not configured for static site'",
+		"test": "echo 'Testing not configured for static site'"
+	},
+	"keywords": [
+		"portfolio",
+		"website",
+		"responsive",
+		"modern",
+		"interactive",
+		"github-pages",
+		"html",
+		"css",
+		"javascript"
+	],
+	"author": "Nguyen Nhat Quang",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yourusername/your-portfolio-repo.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yourusername/your-portfolio-repo/issues"
+	},
+	"homepage": "https://yourusername.github.io/your-portfolio-repo",
+	"devDependencies": {},
+	"dependencies": {},
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	]
+}
