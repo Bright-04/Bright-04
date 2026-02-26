@@ -12,7 +12,7 @@
 **`student developer · game maker · creative tinkerer`**
 
 I study IT at [HCMUTE](https://hcmute.edu.vn/) in Ho Chi Minh City.<br>
-I like building things — sometimes it's a web app, sometimes it's a tiny<br>
+I like building things - sometimes it's a web app, sometimes it's a tiny<br>
 pixel character walking across a 2D world I made at 3 AM.
 
 [![say hi](https://img.shields.io/badge/say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbl.nguyennhatquang2809@example.com)
@@ -116,12 +116,12 @@ Video · Motion · Design
 ### `> cat stats.md`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bright-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-04&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bright-04&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Bright-04&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bright-04&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
