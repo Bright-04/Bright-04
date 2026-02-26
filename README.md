@@ -15,7 +15,9 @@ I study IT at [HCMUTE](https://hcmute.edu.vn/) in Ho Chi Minh City.<br>
 I like building things - sometimes it's a web app, sometimes it's a tiny<br>
 pixel character walking across a 2D world I made at 3 AM.
 
-[![say hi](https://img.shields.io/badge/say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbl.nguyennhatquang2809@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbl.nguyennhatquang2809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatquang2809)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NhatQuang.2809/)
 
 </div>
 
@@ -128,11 +130,8 @@ Video · Motion · Design
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════════╗
- ║  code it. break it. pixel it. ship it. repeat.           ║
- ╚═══════════════════════════════════════════════════════════╝
-```
+*"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths."*<br>
+— Walt Disney
 
 <img src="https://komarev.com/ghpvc/?username=Bright-04&color=00D4FF&style=flat-square&label=visitors" alt="Profile Views" />
 
