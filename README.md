@@ -1,19 +1,22 @@
 <div align="center">
 
-```
+<pre>
  ██████╗ ██████╗ ██╗ ██████╗ ██╗  ██╗████████╗
  ██╔══██╗██╔══██╗██║██╔════╝ ██║  ██║╚══██╔══╝
  ██████╔╝██████╔╝██║██║  ███╗███████║   ██║   
  ██╔══██╗██╔══██╗██║██║   ██║██╔══██║   ██║   
  ██████╔╝██║  ██║██║╚██████╔╝██║  ██║   ██║   
  ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-```
+</pre>
 
-**`student developer · game maker · creative tinkerer`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=560&lines=student+developer+%C2%B7+game+maker+%C2%B7+creative+tinkerer;crafting+2D+worlds+in+Unity+%F0%9F%8E%AE;building+full-stack+apps+with+React+%26+Node+%F0%9F%8C%90;drawing+pixel+art+at+3+AM+%F0%9F%8C%99)](https://git.io/typing-svg)
 
-I study IT at [HCMUTE](https://hcmute.edu.vn/) in Ho Chi Minh City.<br>
-I like building things - sometimes it's a web app, sometimes it's a tiny<br>
-pixel character walking across a 2D world I made at 3 AM.
+<br>
+
+I study IT at [HCMUTE](https://hcmute.edu.vn/) in Ho Chi Minh City. &nbsp;I like building things — sometimes it's a web app,<br>
+sometimes it's a tiny pixel character walking across a 2D world I made at 3 AM.
+
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbl.nguyennhatquang2809@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatquang2809)
@@ -52,7 +55,7 @@ interests:
   <tr>
     <td valign="top" width="33%">
 
-**🔤 Languages**<br>
+**🔤 Languages**<br><br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -63,7 +66,7 @@ interests:
 </td>
     <td valign="top" width="33%">
 
-**🌐 Web**<br>
+**🌐 Web**<br><br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
@@ -74,7 +77,7 @@ interests:
 </td>
     <td valign="top" width="33%">
 
-**🗄️ Data & Cloud**<br>
+**🗄️ Data & Cloud**<br><br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -86,7 +89,7 @@ interests:
   <tr>
     <td valign="top" width="33%">
 
-**🎮 Game Dev**<br>
+**🎮 Game Dev**<br><br>
 ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
 <br>
@@ -95,19 +98,19 @@ interests:
 </td>
     <td valign="top" width="33%">
 
-**⚙️ Frameworks**<br>
+**⚙️ Frameworks**<br><br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white)
 
 </td>
     <td valign="top" width="33%">
 
-**🎬 Creative**<br>
+**🎬 Creative**<br><br>
 ![Adobe Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 <br>
-Video · Motion · Design
+`Video` · `Motion` · `Design`
 
 </td>
   </tr>
@@ -123,15 +126,20 @@ Video · Motion · Design
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bright-04&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bright-04&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bright-04&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
 
 <div align="center">
 
-*"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths."*<br>
+*"Around here, however, we don't look backwards for very long. We keep moving forward,<br>
+opening up new doors and doing new things, because we're curious...<br>
+and curiosity keeps leading us down new paths."*<br>
 — Walt Disney
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Bright-04&color=00D4FF&style=flat-square&label=visitors" alt="Profile Views" />
 
